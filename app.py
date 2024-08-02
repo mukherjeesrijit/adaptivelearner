@@ -209,9 +209,9 @@ with tab2:
         # Display a pop-up with the change in proficiency
         delta = (100*(new_proficiency - previous_proficiency))/previous_proficiency
         if delta > 0:
-            st.success(f"Proficiency increased by {delta*100:.2f}%!")
+            st.success(f"Proficiency increased by {delta:.2f}%!")
         elif delta < 0:
-            st.error(f"Proficiency decreased by {abs(delta)*100:.2f}%. Try again!")
+            st.error(f"Proficiency decreased by {abs(delta):.2f}%. Try again!")
         else:
             st.info("Proficiency remains the same.")
 
