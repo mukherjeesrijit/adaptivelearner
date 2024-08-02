@@ -1,0 +1,23 @@
+topic,proficiency
+Introduction to PyTorch,0.0
+Installation and Setup,0.0
+Tensors,8.0
+Autograd,0.0
+Neural Networks,0.0
+Data Handling,0.0
+Training a Model,0.0
+Convolutional Neural Networks (CNNs),0.0
+Recurrent Neural Networks (RNNs),0.0
+Transformers and Attention Mechanisms,0.0
+Transfer Learning,0.0
+Generative Models,0.0
+Model Deployment,0.0
+Computer Vision,0.0
+Natural Language Processing (NLP),0.0
+Reinforcement Learning,0.0
+PyTorch Lightning,0.0
+Distributed Training,0.0
+PyTorch Ecosystem Libraries,0.0
+Debugging and Profiling,0.0
+Hyperparameter Tuning,0.0
+Experiment Tracking,0.0
