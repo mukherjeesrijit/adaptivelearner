@@ -8,3 +8,7 @@ The Personal Adaptive Learner is a Streamlit application designed to help users 
 - **Code Submission:** Enter and save code, then run it to check correctness.
 - **Proficiency Tracking:** Update proficiency scores based on the correctness of submitted code.
 - **Visualization:** View proficiency scores and progress through visualizations.
+
+## MIT
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
