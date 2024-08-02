@@ -1,4 +1,4 @@
-# Personal Adaptive Learner
+# Adaptive Learner
 
 ## Overview
 The Personal Adaptive Learner is a Streamlit application designed to help users learn and practice coding problems in a personalized manner. The app leverages LangChain's LLM to generate coding problems based on user proficiency and selected topics. Users can solve problems, track their proficiency, and visualize their learning progress.
