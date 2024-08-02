@@ -141,7 +141,7 @@ def visualize_proficiency():
 
 # Streamlit app
 st.title("Personal Adaptive Learner")
-st.write("Developed by [Srijit Mukherjee](https://www.linkedin.com/in/srijit-mukherjee/). Code available at [Github](https://github.com/mukherjeesrijit/adaptivelearner) ")
+st.write("Developed by [Srijit Mukherjee](https://www.linkedin.com/in/srijit-mukherjee/). Code available at [Github](https://github.com/mukherjeesrijit/adaptivelearner).")
 
 # Initialize the LLM
 llm = Ollama(model="llama3.1")
